@@ -19,7 +19,7 @@
 
 - [ ] La fuente nuclear es el ROGA 2004, arts. 61-72, en su redacción vigente.
 - [ ] Se emplea el término vigente "**coordinador del distrito**" (no "gerente"), conforme al Reglamento Orgánico de los Distritos vigente.
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[ROGA, art. X]` o `[LBRL, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X ROGA)` o `(art. X LBRL)`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del ROGA, la LBRL o la división vigente en distritos.
 
 ## 2. Estructura del contenido
@@ -33,15 +33,15 @@
 
 ## 3. Rigor jurídico
 
-- [ ] El distrito es división territorial con gestión **desconcentrada** [art. 61.1].
-- [ ] La división en distritos la establece el **Pleno** por norma orgánica [art. 61.2].
-- [ ] El gobierno del distrito corresponde a la **Junta Municipal** y al **concejal-presidente** [art. 62].
-- [ ] La Junta Municipal ejerce competencias **por delegación** del alcalde o de la Junta de Gobierno [art. 63].
-- [ ] El concejal-presidente es **nombrado y separado por el alcalde**; preside la Junta y tiene **voto de calidad** [art. 64].
-- [ ] Los actos del concejal-presidente son **decretos** [art. 67]; los del coordinador, **resoluciones** [art. 71.2].
-- [ ] El vicepresidente es un **concejal-vocal** nombrado por el alcalde [art. 68].
-- [ ] El jefe superior de la organización administrativa es el **concejal-presidente** [art. 69.1].
-- [ ] El **coordinador del distrito** lo nombra la **Junta de Gobierno** a propuesta del concejal-presidente y tiene **rango de director general** [arts. 70, 49].
+- [ ] El distrito es división territorial con gestión **desconcentrada** (art. 61.1).
+- [ ] La división en distritos la establece el **Pleno** por norma orgánica (art. 61.2).
+- [ ] El gobierno del distrito corresponde a la **Junta Municipal** y al **concejal-presidente** (art. 62).
+- [ ] La Junta Municipal ejerce competencias **por delegación** del alcalde o de la Junta de Gobierno (art. 63).
+- [ ] El concejal-presidente es **nombrado y separado por el alcalde**; preside la Junta y tiene **voto de calidad** (art. 64).
+- [ ] Los actos del concejal-presidente son **decretos** (art. 67); los del coordinador, **resoluciones** (art. 71.2).
+- [ ] El vicepresidente es un **concejal-vocal** nombrado por el alcalde (art. 68).
+- [ ] El jefe superior de la organización administrativa es el **concejal-presidente** (art. 69.1).
+- [ ] El **coordinador del distrito** lo nombra la **Junta de Gobierno** a propuesta del concejal-presidente y tiene **rango de director general** (arts. 70, 49).
 - [ ] Los 21 distritos están correctamente enumerados (Centro=1 … Barajas=21).
 
 ## 4. Diagramas SVG

@@ -31,9 +31,9 @@ El Tema 4 trabaja con **corpus normativo cerrado**: el articulado del Reglamento
 
 ### Esquema de referencia para el contenido
 
-- **Articulado ROGA**: `[ROGA, art. X]` o `[ROGA, art. X.Y]` — p. ej. `[ROGA, art. 65]`
-- **Ley de bases**: `[LBRL, art. 123.1.c)]`, `[LBRL, art. 128]`
-- **Reglamento de Distritos**: `[RO-DISTRITOS, art. X]`
+- **Articulado ROGA**: `(art. X ROGA)` o `(art. X.Y ROGA)` — p. ej. `(art. 65 ROGA)`
+- **Ley de bases**: `(art. 123.1.c) LBRL)`, `(art. 128 LBRL)`
+- **Reglamento de Distritos**: `(art. X RO 6/2021)`
 
 ---
 
@@ -47,8 +47,8 @@ El Tema 4 trabaja con **corpus normativo cerrado**: el articulado del Reglamento
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de `[ROGA, art. X]`.
-2. Las remisiones a la ley de bases se identifican con `[LBRL, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de `(art. X ROGA)`.
+2. Las remisiones a la ley de bases se identifican con `(art. X LBRL)`.
 3. Los datos memorísticos (órgano que nombra, forma de los actos, rango) se marcan con `[DATO CLAVE]`.
 4. La distinción entre **concejal-presidente** (órgano superior) y **coordinador del distrito** (órgano directivo) se recuerda en `[RELACIÓN CON OTROS TEMAS]` cuando reaparece.
 5. Las menciones a los distritos vigentes y a la aplicación al puesto se marcan con `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.

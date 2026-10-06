@@ -30,10 +30,10 @@
 
 **Solución orientativa**:
 
-1. Son **divisiones territoriales** del municipio de Madrid dotadas de **órganos de gestión desconcentrada** [ROGA, art. 61.1].
-2. Establece las **normas esenciales de la organización administrativa** de los distritos, que se complementan con las normas orgánicas del Pleno sobre la división en distritos y sus órganos, sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva [ROGA, art. 61.3 y 61.2].
-3. Al **Pleno**, mediante **norma orgánica** (art. 128.2 LBRL), sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva [ROGA, art. 61.2].
-4. El **impulso y desarrollo de la participación ciudadana** en la gestión de los asuntos municipales y su mejora, sin perjuicio de la unidad de gobierno y gestión del municipio [ROGA, art. 61.1].
+1. Son **divisiones territoriales** del municipio de Madrid dotadas de **órganos de gestión desconcentrada** (art. 61.1 ROGA).
+2. Establece las **normas esenciales de la organización administrativa** de los distritos, que se complementan con las normas orgánicas del Pleno sobre la división en distritos y sus órganos, sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva (art. 61.3 y 61.2 ROGA).
+3. Al **Pleno**, mediante **norma orgánica** (art. 128.2 LBRL), sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva (art. 61.2 ROGA).
+4. El **impulso y desarrollo de la participación ciudadana** en la gestión de los asuntos municipales y su mejora, sin perjuicio de la unidad de gobierno y gestión del municipio (art. 61.1 ROGA).
 
 **Criterios de evaluación**: definir división territorial + gestión desconcentrada; normas esenciales del capítulo y su complemento (art. 61.3); identificar al Pleno y la norma orgánica; finalidad de participación ciudadana.
 
@@ -52,10 +52,10 @@
 
 **Solución orientativa**:
 
-1. La **Junta Municipal del Distrito** y el **concejal-presidente** [ROGA, art. 62].
-2. La Junta Municipal es el «órgano **colegiado** de representación político-vecinal» [RO-DISTRITOS, art. 5.a)]; el concejal-presidente es un órgano **unipersonal**, que convoca y preside sus sesiones [ROGA, art. 64].
-3. De la **delegación del alcalde o de la Junta de Gobierno**, además de las que le atribuya el Pleno conforme al artículo 123.1.c) LBRL [ROGA, art. 63].
-4. La preside el **concejal-presidente**, que **dirime los empates con su voto de calidad** [ROGA, art. 64].
+1. La **Junta Municipal del Distrito** y el **concejal-presidente** (art. 62 ROGA).
+2. La Junta Municipal es el «órgano **colegiado** de representación político-vecinal» (art. 5.a) RO 6/2021); el concejal-presidente es un órgano **unipersonal**, que convoca y preside sus sesiones (art. 64 ROGA).
+3. De la **delegación del alcalde o de la Junta de Gobierno**, además de las que le atribuya el Pleno conforme al artículo 123.1.c) LBRL (art. 63 ROGA).
+4. La preside el **concejal-presidente**, que **dirime los empates con su voto de calidad** (art. 64 ROGA).
 
 **Criterios de evaluación**: identificar los dos órganos; naturaleza colegiada/unipersonal; competencias por delegación; presidencia y voto de calidad del concejal-presidente.
 
@@ -74,10 +74,10 @@
 
 **Solución orientativa**:
 
-1. El **alcalde** [ROGA, art. 64].
-2. Por ejemplo: representación, dirección, gestión e inspección del distrito (a); fijar objetivos, aprobar planes y asignar recursos (b); proponer al alcalde la organización del distrito (d); evaluar la ejecución de los planes por los coordinadores y ejercer el control de eficacia (e); superior autoridad sobre el personal (f) — bastan tres [ROGA, art. 65].
-3. Ante los miembros de la **Junta de Gobierno** y, en todo caso, ante la propia **Junta Municipal del Distrito** [ROGA, art. 66].
-4. La forma de **decreto**; se denominan **"Decretos del concejal-presidente de la Junta Municipal de Distrito"** [ROGA, art. 67].
+1. El **alcalde** (art. 64 ROGA).
+2. Por ejemplo: representación, dirección, gestión e inspección del distrito (a); fijar objetivos, aprobar planes y asignar recursos (b); proponer al alcalde la organización del distrito (d); evaluar la ejecución de los planes por los coordinadores y ejercer el control de eficacia (e); superior autoridad sobre el personal (f) — bastan tres (art. 65 ROGA).
+3. Ante los miembros de la **Junta de Gobierno** y, en todo caso, ante la propia **Junta Municipal del Distrito** (art. 66 ROGA).
+4. La forma de **decreto**; se denominan **"Decretos del concejal-presidente de la Junta Municipal de Distrito"** (art. 67 ROGA).
 
 **Criterios de evaluación**: nombramiento por el alcalde; tres funciones correctas del art. 65; doble responsabilidad política; forma de decreto y denominación.
 
@@ -96,10 +96,10 @@
 
 **Solución orientativa**:
 
-1. El **vicepresidente**, que es un **concejal-vocal** de la Junta nombrado por el **alcalde** [ROGA, art. 68.1].
-2. **No**: la suplencia opera **sin necesidad de acto expreso declarativo**, debiendo darse cuenta a la Junta Municipal [ROGA, art. 68.2].
-3. El **jefe superior** es el **concejal-presidente**; la dirección y coordinación de los servicios corresponde al **coordinador del distrito**, bajo su superior dirección [ROGA, art. 69.1 y 69.2].
-4. En **unidades administrativas funcionalmente homogéneas**, que se crean, modifican y suprimen a **propuesta del concejal-presidente**, previo informe de las Áreas competentes, a través de la **RPT** [ROGA, art. 69.3].
+1. El **vicepresidente**, que es un **concejal-vocal** de la Junta nombrado por el **alcalde** (art. 68.1 ROGA).
+2. **No**: la suplencia opera **sin necesidad de acto expreso declarativo**, debiendo darse cuenta a la Junta Municipal (art. 68.2 ROGA).
+3. El **jefe superior** es el **concejal-presidente**; la dirección y coordinación de los servicios corresponde al **coordinador del distrito**, bajo su superior dirección (art. 69.1 y 69.2 ROGA).
+4. En **unidades administrativas funcionalmente homogéneas**, que se crean, modifican y suprimen a **propuesta del concejal-presidente**, previo informe de las Áreas competentes, a través de la **RPT** (art. 69.3 ROGA).
 
 **Criterios de evaluación**: vicepresidente (concejal-vocal, nombrado por el alcalde); suplencia sin acto expreso; jefe superior = concejal-presidente, coordinador dirige servicios; creación de unidades vía RPT.
 
@@ -118,10 +118,10 @@
 
 **Solución orientativa**:
 
-1. La **Junta de Gobierno**, a **propuesta del concejal-presidente** de cada Junta [ROGA, art. 70.1].
-2. Tiene **rango de director general** y su nombramiento se efectúa conforme al **artículo 49** del ROGA [ROGA, art. 70.2].
-3. Por ejemplo: dirección, planificación y gestión de los servicios de su competencia; jefatura inmediata de las unidades adscritas; elaboración, seguimiento y control del presupuesto; evaluación de los servicios; coordinación de las relaciones con las Áreas de Gobierno — bastan tres [ROGA, art. 71.1].
-4. La forma de **resolución** [ROGA, art. 71.2].
+1. La **Junta de Gobierno**, a **propuesta del concejal-presidente** de cada Junta (art. 70.1 ROGA).
+2. Tiene **rango de director general** y su nombramiento se efectúa conforme al **artículo 49** del ROGA (art. 70.2 ROGA).
+3. Por ejemplo: dirección, planificación y gestión de los servicios de su competencia; jefatura inmediata de las unidades adscritas; elaboración, seguimiento y control del presupuesto; evaluación de los servicios; coordinación de las relaciones con las Áreas de Gobierno — bastan tres (art. 71.1 ROGA).
+4. La forma de **resolución** (art. 71.2 ROGA).
 
 **Criterios de evaluación**: nombramiento por la Junta de Gobierno a propuesta del concejal-presidente; rango de director general y art. 49; tres funciones del art. 71; forma de resolución.
 
@@ -140,10 +140,10 @@
 
 **Solución orientativa**:
 
-1. En **21 distritos**, establecidos por el **Pleno** mediante norma orgánica [ROGA, art. 61.2]. Por ejemplo: Centro (1), Salamanca (4), Barajas (21).
-2. **Sí**: la estructura de gobierno (Junta Municipal + concejal-presidente) y administrativa (coordinador del distrito) regulada en los artículos 62 a 71 del ROGA se aplica a los 21 distritos [ROGA, arts. 62-71].
-3. **Órganos de participación** de los vecinos y de las asociaciones que los representen, conforme a las normas orgánicas de participación ciudadana [ROGA, art. 72]; hoy, los **Consejos de Proximidad** (Reglamento Orgánico 7/2021).
-4. Los actos del **concejal-presidente** son **decretos**; los del **coordinador del distrito**, **resoluciones** [ROGA, arts. 67 y 71.2].
+1. En **21 distritos**, establecidos por el **Pleno** mediante norma orgánica (art. 61.2 ROGA). Por ejemplo: Centro (1), Salamanca (4), Barajas (21).
+2. **Sí**: la estructura de gobierno (Junta Municipal + concejal-presidente) y administrativa (coordinador del distrito) regulada en los artículos 62 a 71 del ROGA se aplica a los 21 distritos (arts. 62-71 ROGA).
+3. **Órganos de participación** de los vecinos y de las asociaciones que los representen, conforme a las normas orgánicas de participación ciudadana (art. 72 ROGA); hoy, los **Consejos de Proximidad** (Reglamento Orgánico 7/2021).
+4. Los actos del **concejal-presidente** son **decretos**; los del **coordinador del distrito**, **resoluciones** (arts. 67 y 71.2 ROGA).
 
 **Criterios de evaluación**: 21 distritos fijados por el Pleno + ejemplos; estructura común; órganos de participación; distinción decreto/resolución.
 
