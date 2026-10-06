@@ -40,7 +40,7 @@
     .a-t{font:13px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
     .a-s{font:11px system-ui,sans-serif;fill:#555;text-anchor:middle}
   </style>
-  <rect x="250" y="20" width="200" height="46" rx="8" fill="#003d75"/>
+  <rect x="225" y="20" width="250" height="46" rx="8" fill="#003d75"/>
   <text x="350" y="40" class="a-h">AYUNTAMIENTO DE MADRID</text>
   <text x="350" y="57" class="a-h" style="font-weight:400;font-size:11px">ROGA 2004 · art. 5</text>
   <line x1="350" y1="66" x2="350" y2="86" stroke="#0055a0" stroke-width="1.5"/>
@@ -160,11 +160,11 @@
   <rect x="50" y="150" width="180" height="50" rx="8" class="d-box"/>
   <text x="140" y="173" class="d-h">JUNTA DE GOBIERNO</text>
   <text x="140" y="190" class="d-s">delega</text>
-  <rect x="430" y="95" width="220" height="60" rx="8" class="d-c"/>
+  <rect x="410" y="95" width="260" height="60" rx="8" class="d-c"/>
   <text x="540" y="120" class="d-t">JUNTA MUNICIPAL</text>
   <text x="540" y="138" class="d-t" style="font-weight:400;font-size:11px">competencias ejecutivas/administrativas</text>
-  <line x1="230" y1="65" x2="430" y2="115" class="d-l"/>
-  <line x1="230" y1="175" x2="430" y2="135" class="d-l"/>
+  <line x1="230" y1="65" x2="410" y2="115" class="d-l"/>
+  <line x1="230" y1="175" x2="410" y2="135" class="d-l"/>
   <text x="350" y="225" class="d-s" style="font-style:italic">…sin perjuicio de las que le atribuya el Pleno (art. 123.1.c LBRL)</text>
 </svg>
 ```
@@ -251,26 +251,26 @@
 **Propósito**: No confundir decreto (concejal-presidente) y resolución (coordinador).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 230" role="img" aria-label="Forma de los actos: los del concejal-presidente son decretos y los del coordinador del distrito son resoluciones">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 244" role="img" aria-label="Forma de los actos: los del concejal-presidente son decretos y los del coordinador del distrito son resoluciones">
   <style>
     .g-h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .g-t{font:700 18px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .g-s{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
   </style>
-  <rect x="40" y="30" width="290" height="150" rx="10" fill="#fff" stroke="#0055a0" stroke-width="1.5"/>
+  <rect x="40" y="30" width="290" height="164" rx="10" fill="#fff" stroke="#0055a0" stroke-width="1.5"/>
   <rect x="40" y="30" width="290" height="44" rx="10" fill="#0055a0"/>
   <text x="185" y="58" class="g-h">CONCEJAL-PRESIDENTE</text>
   <rect x="90" y="92" width="190" height="44" rx="8" fill="#003d75"/>
   <text x="185" y="120" class="g-t">DECRETO</text>
   <text x="185" y="160" class="g-s">"Decretos del concejal-presidente</text>
-  <text x="185" y="175" class="g-s">de la Junta Municipal de Distrito"</text>
-  <rect x="370" y="30" width="290" height="150" rx="10" fill="#fff" stroke="#2d8659" stroke-width="1.5"/>
+  <text x="185" y="176" class="g-s">de la Junta Municipal de Distrito"</text>
+  <rect x="370" y="30" width="290" height="164" rx="10" fill="#fff" stroke="#2d8659" stroke-width="1.5"/>
   <rect x="370" y="30" width="290" height="44" rx="10" fill="#2d8659"/>
   <text x="515" y="58" class="g-h">COORDINADOR DEL DISTRITO</text>
   <rect x="420" y="92" width="190" height="44" rx="8" fill="#1f5e3f"/>
   <text x="515" y="120" class="g-t">RESOLUCIÓN</text>
   <text x="515" y="162" class="g-s">decisiones administrativas (art. 71.2)</text>
-  <text x="350" y="212" class="g-s" style="font-style:italic;fill:#a3271c">Concejal-presidente: decreto (art. 67) · Coordinador del distrito: resolución (art. 71.2)</text>
+  <text x="350" y="226" class="g-s" style="font-style:italic;fill:#a3271c">Concejal-presidente: decreto (art. 67) · Coordinador del distrito: resolución (art. 71.2)</text>
 </svg>
 ```
 
