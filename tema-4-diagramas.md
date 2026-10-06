@@ -84,8 +84,8 @@
   <rect x="30" y="160" width="200" height="100" rx="8" class="b-b"/>
   <text x="130" y="186" class="b-h">Gestión</text>
   <text x="130" y="204" class="b-h">DESCONCENTRADA</text>
-  <text x="130" y="228" class="b-s">sin personalidad</text>
-  <text x="130" y="244" class="b-s">jurídica propia</text>
+  <text x="130" y="228" class="b-s">sin perjuicio de la unidad</text>
+  <text x="130" y="244" class="b-s">de gobierno y gestión</text>
   <rect x="250" y="160" width="200" height="100" rx="8" class="b-b"/>
   <text x="350" y="186" class="b-h">Finalidad</text>
   <text x="350" y="210" class="b-s">impulso de la</text>
@@ -237,7 +237,7 @@
   <rect x="60" y="168" width="580" height="30" rx="5" fill="#fff" stroke="#e8ecf0"/>
   <text x="80" y="188" class="f-k">d</text><text x="105" y="188" class="f-s">Proponer al alcalde los proyectos de organización del distrito</text>
   <rect x="60" y="202" width="580" height="30" rx="5" fill="#e8f0f8"/>
-  <text x="80" y="222" class="f-k">e</text><text x="105" y="222" class="f-s">Evaluar al coordinador y ejercer el control de eficacia</text>
+  <text x="80" y="222" class="f-k">e</text><text x="105" y="222" class="f-s">Evaluar la ejecución de los planes por los coordinadores; control de eficacia</text>
   <rect x="60" y="236" width="580" height="30" rx="5" fill="#fff" stroke="#e8ecf0"/>
   <text x="80" y="256" class="f-k">f</text><text x="105" y="256" class="f-s">Superior autoridad sobre el personal del distrito</text>
 </svg>
@@ -270,7 +270,7 @@
   <rect x="420" y="92" width="190" height="44" rx="8" fill="#1f5e3f"/>
   <text x="515" y="120" class="g-t">RESOLUCIÓN</text>
   <text x="515" y="162" class="g-s">decisiones administrativas (art. 71.2)</text>
-  <text x="350" y="212" class="g-s" style="font-style:italic;fill:#a3271c">Pregunta típica de examen: no confundir decreto y resolución</text>
+  <text x="350" y="212" class="g-s" style="font-style:italic;fill:#a3271c">Concejal-presidente: decreto (art. 67) · Coordinador del distrito: resolución (art. 71.2)</text>
 </svg>
 ```
 
@@ -418,7 +418,7 @@
     <text x="500" y="210" class="k-n">20</text><text x="520" y="210" class="k-t">San Blas-Canillejas</text>
     <text x="500" y="236" class="k-n">21</text><text x="520" y="236" class="k-t">Barajas</text>
   </g>
-  <text x="350" y="300" class="k-t" text-anchor="middle" style="fill:#777;font-style:italic">La división la establece el Pleno por norma orgánica (art. 61.2). Cada distrito se subdivide en barrios.</text>
+  <text x="350" y="300" class="k-t" style="text-anchor:middle;fill:#777;font-style:italic">La división la establece el Pleno por norma orgánica (art. 61.2). Cada distrito se subdivide en barrios.</text>
 </svg>
 ```
 
@@ -446,12 +446,13 @@
   <ellipse cx="350" cy="160" rx="90" ry="44" class="l-c"/>
   <text x="350" y="156" class="l-ct">EL DISTRITO</text>
   <text x="350" y="174" class="l-ct" style="font-weight:400;font-size:11px">ROGA arts. 61-72</text>
-  <rect x="40" y="42" width="240" height="56" rx="8" class="l-n"/>
-  <text x="160" y="66" class="l-h">Concepto</text>
-  <text x="160" y="84" class="l-s">división territorial · gestión desconcentrada · la divide el Pleno</text>
-  <rect x="420" y="42" width="240" height="56" rx="8" class="l-n"/>
-  <text x="540" y="66" class="l-h">Órganos de gobierno</text>
-  <text x="540" y="84" class="l-s">Junta Municipal + concejal-presidente</text>
+  <rect x="40" y="34" width="240" height="70" rx="8" class="l-n"/>
+  <text x="160" y="58" class="l-h">Concepto</text>
+  <text x="160" y="77" class="l-s">división territorial · gestión desconcentrada</text>
+  <text x="160" y="92" class="l-s">la divide el Pleno</text>
+  <rect x="420" y="34" width="240" height="70" rx="8" class="l-n"/>
+  <text x="540" y="58" class="l-h">Órganos de gobierno</text>
+  <text x="540" y="77" class="l-s">Junta Municipal + concejal-presidente</text>
   <rect x="40" y="228" width="240" height="56" rx="8" class="l-n"/>
   <text x="160" y="252" class="l-h">Concejal-presidente</text>
   <text x="160" y="270" class="l-s">alcalde lo nombra · decreto · superior</text>

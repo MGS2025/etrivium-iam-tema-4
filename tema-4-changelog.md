@@ -4,6 +4,32 @@
 
 ---
 
+## v1.2 — 2026-10-01 — Revisión jurídica
+
+**Estado**: cambios de contenido derivados de la revisión jurídica del bloque T1-T10.
+
+### Cambios pedidos en la revisión
+
+- **D12 · Mapa-resumen**: la línea de la caja «Concepto» se salía de la caja; se parte en dos líneas y se agrandan las dos cajas superiores.
+- **Fuentes**: fuera la referencia al articulado aportado por el cliente y la coletilla «Se sigue la versión del cliente». Se conserva la nota terminológica (coordinador del distrito; Reglamento Orgánico 6/2021).
+
+### Reglas generales aplicadas
+
+- **Cajas**: «Dato clave examen» → «Dato clave»; «Ejemplo Ayto Madrid» → «Ejemplo de aplicación en el Ayto»; «Referencia cruzada» → «Relación con otros temas». Leyenda reescrita sin prometer que algo aparecerá en el test oficial. Marcas `[REFERENCIA CRUZADA]` sueltas eliminadas.
+- **Citas de artículos**: «artículo» completo cuando la cita forma parte de la oración (arts. 49, 123.1.c), 128 y 62-71).
+- **Reflexiones fuera de las cajas**: fuera las afirmaciones sobre la falta de personalidad jurídica del distrito (contenido, D2, casos, test, pedagógicas, validación) y la de que la estructura es «común» sin precepto que la respalde; se sustituyen por el texto de la norma.
+- **Correcciones comunes**: tabla «Tier 2 — Material aportado por el cliente» eliminada (la fila del temario oficial BOAM 10.032 pasa a Tier 1); fila de trazabilidad del material del cliente fuera; menciones al cliente en Validación fuera. D7: «Pregunta típica de examen» sustituida por las formas de los actos con su artículo.
+- **Test (150)**: 36 preguntas reescritas para que pregunta y respuesta salgan del texto literal (ROGA, LBRL arts. 128, Ley 22/2006 arts. 1.1, 14.3.d) y 22, Reglamento Orgánico 6/2021 arts. 3 y 5); 15 referencias precisadas; respuestas correctas repartidas 50/50/50 entre a/b/c en el `.md`. Pedagógicas P1, P2, P3, P6, P7, P13, P17, P18, P19 y P20 ajustadas a la norma.
+
+### Correcciones normativas
+
+- **Foros Locales**: derogados por el Reglamento Orgánico 7/2021, de 1 de junio, de los Consejos de Proximidad de los Distritos de Madrid. Se corrige la caja del § 12, el caso 6, la pregunta 111 y la pedagógica P17.
+- **Ley 22/2006**: se publicó en el BOE núm. 159, de 05/07/2006 (no núm. 182 de 01/08/2006).
+- Contenido completado con los preceptos en que se apoyan las nuevas preguntas: arts. 5, 6.1, 7.3 y 7.4 ROGA, art. 128.2 y 128.3 LBRL, arts. 14.3.d) y 22 de la Ley 22/2006 y art. 3 del Reglamento Orgánico 6/2021.
+- **D11**: la nota al pie se salía del diagrama (el `text-anchor` del atributo lo anulaba la clase CSS); corregido.
+
+---
+
 ## v1.1 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

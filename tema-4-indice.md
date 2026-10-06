@@ -32,7 +32,7 @@
 
 ## Conceptos clave por sección
 
-### Datos memorísticos de alto valor (DATO CLAVE EXAMEN)
+### Datos memorísticos de alto valor (Dato clave)
 
 | Concepto | Dato | Artículo |
 |---|---|---|
@@ -48,7 +48,7 @@
 | El coordinador del distrito | Dirige y coordina los servicios; rango de **director general** | Arts. 69-70 |
 | Nombramiento del coordinador | Por la **Junta de Gobierno**, a propuesta del concejal-presidente | Art. 70.1 |
 | Forma de los actos del coordinador | **Resolución** | Art. 71.2 |
-| Nº de distritos de Madrid | **21** | Reglamento de Distritos |
+| Nº de distritos de Madrid | **21** | RO 6/2021 de los Distritos, art. 3.1 |
 
 ### Tabla comparativa — Concejal-presidente vs coordinador del distrito
 
@@ -64,9 +64,9 @@
 
 ## Dependencias con otros temas
 
-- **Tema 3**: El ROGA (I) — Las Áreas de Gobierno y los órganos centrales (parte funcional, complementaria de ésta, que es la territorial). [REFERENCIA CRUZADA]
+- **Tema 3**: El ROGA (I) — Las Áreas de Gobierno y los órganos centrales (parte funcional, complementaria de ésta, que es la territorial).
 - **Tema 2**: Organización territorial y régimen especial de Madrid (Ley 22/2006 de Capitalidad).
-- **Tema 5**: El personal al servicio de la Administración (EBEP) — el coordinador del distrito se nombra entre funcionarios (art. 49 ROGA).
+- **Tema 5**: El personal al servicio de la Administración (EBEP) — el nombramiento del coordinador del distrito se efectúa conforme al artículo 49 ROGA (art. 70.2 ROGA).
 
 ---
 

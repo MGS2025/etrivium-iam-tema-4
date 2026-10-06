@@ -17,7 +17,7 @@
 
 ## 1. Fuentes y trazabilidad
 
-- [ ] La fuente nuclear es el ROGA 2004, arts. 61-72, coincidente con el `Tema 4 tema.docx` aportado por el cliente.
+- [ ] La fuente nuclear es el ROGA 2004, arts. 61-72, en su redacción vigente.
 - [ ] Se emplea el término vigente "**coordinador del distrito**" (no "gerente"), conforme al Reglamento Orgánico de los Distritos vigente.
 - [ ] Cada afirmación que reproduce el articulado está referenciada con `[ROGA, art. X]` o `[LBRL, art. X]`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo del ROGA, la LBRL o la división vigente en distritos.
@@ -26,14 +26,14 @@
 
 - [ ] El `tema-4-indice.md` refleja fielmente la estructura de `tema-4-contenido.md`.
 - [ ] Las secciones cubren: concepto de distrito, órganos de gobierno, Junta Municipal, concejal-presidente, competencias, responsabilidad y forma de actos, vicepresidente, estructura administrativa, coordinador del distrito, funciones del coordinador, participación y los 21 distritos.
-- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
+- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE]`.
 - [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]`.
-- [ ] Los ejemplos del Ayto de Madrid están marcados como `[EJEMPLO AYTO MADRID]`.
-- [ ] Los enlaces a otros temas se marcan como `[REFERENCIA CRUZADA]`.
+- [ ] Los ejemplos de aplicación en el Ayto de Madrid están marcados como `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.
+- [ ] Las conexiones con otros temas se marcan como `[RELACIÓN CON OTROS TEMAS]`.
 
 ## 3. Rigor jurídico
 
-- [ ] El distrito es división territorial con gestión **desconcentrada** (sin personalidad jurídica propia) [art. 61.1].
+- [ ] El distrito es división territorial con gestión **desconcentrada** [art. 61.1].
 - [ ] La división en distritos la establece el **Pleno** por norma orgánica [art. 61.2].
 - [ ] El gobierno del distrito corresponde a la **Junta Municipal** y al **concejal-presidente** [art. 62].
 - [ ] La Junta Municipal ejerce competencias **por delegación** del alcalde o de la Junta de Gobierno [art. 63].
@@ -77,7 +77,7 @@
 
 ## 9. Consistencia inter-temas
 
-- [ ] Referencia cruzada al **Tema 3** (Áreas de Gobierno) coherente.
+- [ ] Relación con el **Tema 3** (Áreas de Gobierno) coherente.
 - [ ] Referencia al **Tema 2** (régimen especial) y al **Tema 5** (EBEP, directivos) coherente.
 
 ---
@@ -86,7 +86,7 @@
 
 ### Decisiones conscientes que conviene confirmar
 
-1. **Terminología "coordinador del distrito"** (no "gerente"): el cliente aporta "coordinador" en `Tema 4 tema.docx`, que es el término **vigente** (Reglamento Orgánico 6/2021 de los Distritos). El antiguo ROGA 2004 decía "gerente". Se sigue la versión del cliente.
+1. **Terminología "coordinador del distrito"** (no "gerente"): es el término **vigente** del ROGA (arts. 69-71) y del Reglamento Orgánico 6/2021 de los Distritos. El antiguo ROGA 2004 decía "gerente".
 2. **Sección de los 21 distritos** añadida como complemento (el epígrafe no la exige literalmente, pero aporta valor; paralela a las Áreas actuales del Tema 3). Dato actualizable.
 3. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 7 pestañas**, replicando el formato de los Temas 1/2/3.
 4. **Balanceo automático A/B/C** mediante permutación determinista en `build_t4.py`.

@@ -24,18 +24,18 @@
 **Cuestiones**:
 
 1. **(2,5 pts)** ¿Qué son los distritos según el artículo 61 del ROGA y qué tipo de gestión tienen?
-2. **(2,5 pts)** ¿Tienen los distritos personalidad jurídica propia? Justifique.
+2. **(2,5 pts)** ¿Qué establece el capítulo del ROGA dedicado a los distritos y con qué normas se complementa?
 3. **(2,5 pts)** ¿A quién corresponde establecer la división del municipio en distritos y mediante qué norma?
 4. **(2,5 pts)** ¿Cuál es la finalidad de la gestión desconcentrada de los distritos?
 
 **Solución orientativa**:
 
 1. Son **divisiones territoriales** del municipio de Madrid dotadas de **órganos de gestión desconcentrada** [ROGA, art. 61.1].
-2. **No**: al ser gestión **desconcentrada** (no descentralizada), el distrito **carece de personalidad jurídica propia** y se integra en la personalidad jurídica única del Ayuntamiento [ROGA, art. 61.1].
-3. Al **Pleno**, mediante **norma orgánica** (con base en el art. 128 de la LBRL), sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva [ROGA, art. 61.2].
+2. Establece las **normas esenciales de la organización administrativa** de los distritos, que se complementan con las normas orgánicas del Pleno sobre la división en distritos y sus órganos, sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva [ROGA, art. 61.3 y 61.2].
+3. Al **Pleno**, mediante **norma orgánica** (art. 128.2 LBRL), sin perjuicio de las atribuciones del alcalde sobre su administración ejecutiva [ROGA, art. 61.2].
 4. El **impulso y desarrollo de la participación ciudadana** en la gestión de los asuntos municipales y su mejora, sin perjuicio de la unidad de gobierno y gestión del municipio [ROGA, art. 61.1].
 
-**Criterios de evaluación**: definir división territorial + gestión desconcentrada; negar la personalidad jurídica propia con la razón correcta; identificar al Pleno y la norma orgánica; finalidad de participación ciudadana.
+**Criterios de evaluación**: definir división territorial + gestión desconcentrada; normas esenciales del capítulo y su complemento (art. 61.3); identificar al Pleno y la norma orgánica; finalidad de participación ciudadana.
 
 ---
 
@@ -53,8 +53,8 @@
 **Solución orientativa**:
 
 1. La **Junta Municipal del Distrito** y el **concejal-presidente** [ROGA, art. 62].
-2. La Junta Municipal es un órgano **colegiado**; el concejal-presidente, **unipersonal** [ROGA, art. 62].
-3. De la **delegación del alcalde o de la Junta de Gobierno**, además de las que le atribuya el Pleno (art. 123.1.c) LBRL) [ROGA, art. 63].
+2. La Junta Municipal es el «órgano **colegiado** de representación político-vecinal» [RO-DISTRITOS, art. 5.a)]; el concejal-presidente es un órgano **unipersonal**, que convoca y preside sus sesiones [ROGA, art. 64].
+3. De la **delegación del alcalde o de la Junta de Gobierno**, además de las que le atribuya el Pleno conforme al artículo 123.1.c) LBRL [ROGA, art. 63].
 4. La preside el **concejal-presidente**, que **dirime los empates con su voto de calidad** [ROGA, art. 64].
 
 **Criterios de evaluación**: identificar los dos órganos; naturaleza colegiada/unipersonal; competencias por delegación; presidencia y voto de calidad del concejal-presidente.
@@ -75,7 +75,7 @@
 **Solución orientativa**:
 
 1. El **alcalde** [ROGA, art. 64].
-2. Por ejemplo: representación, dirección, gestión e inspección del distrito (a); fijar objetivos, aprobar planes y asignar recursos (b); proponer al alcalde la organización del distrito (d); evaluar al coordinador y control de eficacia (e); superior autoridad sobre el personal (f) — bastan tres [ROGA, art. 65].
+2. Por ejemplo: representación, dirección, gestión e inspección del distrito (a); fijar objetivos, aprobar planes y asignar recursos (b); proponer al alcalde la organización del distrito (d); evaluar la ejecución de los planes por los coordinadores y ejercer el control de eficacia (e); superior autoridad sobre el personal (f) — bastan tres [ROGA, art. 65].
 3. Ante los miembros de la **Junta de Gobierno** y, en todo caso, ante la propia **Junta Municipal del Distrito** [ROGA, art. 66].
 4. La forma de **decreto**; se denominan **"Decretos del concejal-presidente de la Junta Municipal de Distrito"** [ROGA, art. 67].
 
@@ -119,7 +119,7 @@
 **Solución orientativa**:
 
 1. La **Junta de Gobierno**, a **propuesta del concejal-presidente** de cada Junta [ROGA, art. 70.1].
-2. Tiene **rango de director general** y su nombramiento se efectúa conforme al **art. 49** del ROGA (entre funcionarios de carrera) [ROGA, art. 70.2].
+2. Tiene **rango de director general** y su nombramiento se efectúa conforme al **artículo 49** del ROGA [ROGA, art. 70.2].
 3. Por ejemplo: dirección, planificación y gestión de los servicios de su competencia; jefatura inmediata de las unidades adscritas; elaboración, seguimiento y control del presupuesto; evaluación de los servicios; coordinación de las relaciones con las Áreas de Gobierno — bastan tres [ROGA, art. 71.1].
 4. La forma de **resolución** [ROGA, art. 71.2].
 
@@ -141,8 +141,8 @@
 **Solución orientativa**:
 
 1. En **21 distritos**, establecidos por el **Pleno** mediante norma orgánica [ROGA, art. 61.2]. Por ejemplo: Centro (1), Salamanca (4), Barajas (21).
-2. **Sí**: la estructura de gobierno (Junta Municipal + concejal-presidente) y administrativa (coordinador del distrito) es **común a los 21 distritos** [ROGA, arts. 62-72].
-3. **Órganos de participación** de los vecinos y de las asociaciones que los representen (p. ej., Foros Locales), conforme a las normas de participación ciudadana [ROGA, art. 72].
+2. **Sí**: la estructura de gobierno (Junta Municipal + concejal-presidente) y administrativa (coordinador del distrito) regulada en los artículos 62 a 71 del ROGA se aplica a los 21 distritos [ROGA, arts. 62-71].
+3. **Órganos de participación** de los vecinos y de las asociaciones que los representen, conforme a las normas orgánicas de participación ciudadana [ROGA, art. 72]; hoy, los **Consejos de Proximidad** (Reglamento Orgánico 7/2021).
 4. Los actos del **concejal-presidente** son **decretos**; los del **coordinador del distrito**, **resoluciones** [ROGA, arts. 67 y 71.2].
 
 **Criterios de evaluación**: 21 distritos fijados por el Pleno + ejemplos; estructura común; órganos de participación; distinción decreto/resolución.
